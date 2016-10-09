@@ -1,14 +1,3 @@
 # Форма для номера телефона
 
-## Установка через composer
-```json
-{
-  "require":{
-    "akiyatkin/subscribe":"~1"
-  }
-}
-```
-
-## Использование
-
-Подкючить слой
+Переехал на новый адрес [infrajs/subscribe](https://github.com/infrajs/subscribe)
