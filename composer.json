@@ -1,10 +1,10 @@
 {
-	"name": "itlife/subscribe",
-	"requireold": {
-		"itlife/infrajs":"~1",
-		"itlife/popup":"~1"
+	"name": "akiyatkin/subscribe",
+	"require": {
+		"infrajs/controller":"~1",
+		"infrajs/popup":"~1"
 	},
 	"autoload": {
-		"psr-4": { "itlife\\subscribe\\": "/" }
+		"psr-4": { "infrajs\\subscribe\\": "/" }
 	}
 }
